@@ -39,3 +39,12 @@
     display: flex;
     justify-content: space-between;
 }
+
+#articles .col {
+    justify-content: center;
+    display: flex;
+}
+
+#secondary-img {
+    margin: 1rem 0;
+}
